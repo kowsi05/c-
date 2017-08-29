@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
 char s;
@@ -11,5 +10,4 @@ printf("entered character is an alphabet");
 }
 else
 printf("it is not an alphabet:");
-getch()
 }
