@@ -2,7 +2,7 @@
 void main()
 {
 int n,sum=0;
-printf("Enter the natural number upto which find the sum:");
+printf("Enter the number upto which find the sum:");
 scanf("%d",&n);
 for(i=1;i<=n;i++)
 {
