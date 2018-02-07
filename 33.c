@@ -14,5 +14,5 @@ void main()
  }
  
  }
- printf("number of white space=%d",cnt);
+ printf("\n number of white space=%d",cnt);
 }
