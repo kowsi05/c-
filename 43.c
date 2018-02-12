@@ -16,7 +16,7 @@ i++;
 j++;
 }
 s1[i]='\0';
-printf("\n the string is %s",s1);
+printf("\n the string is %s%s",s1,s2);
 getch();
 return 0;
 }
